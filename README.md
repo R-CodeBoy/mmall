@@ -1,5 +1,4 @@
 #
 **_this is mmall progrom._**
 
-
-hello mmall test
+this is just a program to exercise java program.
